@@ -15,4 +15,4 @@ To save your notebook in your own Google Drive account, click File > Save a copy
 - Check the "Include Private Repos" checkbox
 - In the popup window, sign into your github acount and authorize Colab to read private files. 
 
-To submit your updated notebook, click File > save a copy in Github, and select the corresponding repository in the dropdown menu (`CompModNervSystem/CompModNervSys-IntroPython`). Make sure that the "Include a link to Colaboratory" box is checked. 
+To save your updated notebook, click File > save a copy in Github, and select the corresponding repository in the dropdown menu (`CompModNervSystem/CompModNervSys-IntroPython`). Make sure that the "Include a link to Colaboratory" box is checked. 
